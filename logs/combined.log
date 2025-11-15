@@ -38,3 +38,30 @@
 {"level":"error","message":"Sign in error Invalid password","service":"acquisitions-api","stack":"Error: Invalid password\n    at authenticateUser (file:///D:/Important-FIles/Projects/acquisitions/acquisitions/src/services/auth.service.js:75:13)\n    at async signIn (file:///D:/Important-FIles/Projects/acquisitions/acquisitions/src/controllers/auth.controller.js:65:18)"}
 {"level":"info","message":"::1 - - [15/Nov/2025:11:58:38 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [15/Nov/2025:11:58:46 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 63 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User admin@jsmastery.pro authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: admin@jsmastery.pro","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:12:01:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 117 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:12:49:21 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:12:49:50 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:12:50:18 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:12:56:15 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:12:58:00 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:04:59 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:05:36 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:05:37 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:05:43 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:05:43 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:05:49 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:06:47 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:06:51 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:06:53 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [15/Nov/2025:13:07:16 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
